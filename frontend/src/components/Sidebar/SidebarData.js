@@ -12,10 +12,6 @@ export const SidebarData = [
         icon: <HomeIcon />,
         link: "/home",
     },
-    {
-        title: "Home",
-        icon: <HomeIcon />,
-        link: "/home",
-    }
+
 ]
 
